@@ -1,0 +1,28 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "bootstrap": "pnpm i -r",
+    "dev:dooring": "pnpm -F @design/dooring dev",
+    "dev:render": "pnpm -F @design/render dev:h5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "typescript": "^4.6.4",
+    "vue": "3.2.37"
+  },
+  "dependencies": {
+    "@design/components": "workspace:*",
+    "@design/utils": "workspace:*",
+    "@design/widget": "workspace:*",
+    "@design/render": "workspace:*",
+    "sass": "^1.55.0",
+    "scss": "^0.2.4"
+  }
+}

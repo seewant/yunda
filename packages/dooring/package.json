@@ -1,0 +1,49 @@
+{
+  "name": "@design/dooring",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@micro-zoe/micro-app": "^1.0.0-rc.3",
+    "@moveable/helper": "^0.1.3",
+    "@vueuse/core": "^9.12.0",
+    "axios": "^1.1.3",
+    "dayjs": "^1.11.11",
+    "echarts": "^5.5.1",
+    "element-plus": "^2.2.19",
+    "element-verify": "^1.0.8",
+    "filepool": "^0.1.2",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "modern-screenshot": "^4.4.39",
+    "moveable": "^0.53.0",
+    "pinia": "^2.0.36",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "sass": "^1.55.0",
+    "scss": "^0.2.4",
+    "unocss": "^0.58.5",
+    "vue-drag-resize": "^1.5.4",
+    "vue-draggable-resizable": "^3.0.0",
+    "vue-resizable": "^2.1.7",
+    "vue-waterfall-plugin-next": "^2.4.3",
+    "vue3-draggable-resizable": "1.6.3",
+    "vue3-moveable": "^0.28.0",
+    "vue3-selecto": "^1.12.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0",
+    "vue": "3.2.37",
+    "vue-router": "^4.1.6",
+    "vue-tsc": "^0.40.4",
+    "vue-wxlogin": "^1.0.4",
+    "vuedraggable": "^4.1.0"
+  }
+}

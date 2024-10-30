@@ -1,0 +1,493 @@
+{
+  "stat": 1,
+  "msg": {
+    "doc": {
+      "canvas": {
+        "height": 286,
+        "width": 454,
+        "showUnit": "px",
+        "title": "",
+        "positionWidth": null,
+        "positionHeight": null,
+        "positionX": null,
+        "positionY": null
+      },
+      "pageAttr": {
+        "backgroundColor": [
+          {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          }
+        ],
+        "backgroundImage": [],
+        "backgroundOpacity": [
+          true
+        ]
+      },
+      "work": [
+        [
+          {
+            "meta": {
+              "locked": false,
+              "type": "image",
+              "name": "",
+              "group": "group7_328491_1715520179671",
+              "addOrigin": "png",
+              "imageEffectBeforInfo": [],
+              "hash": "a89647c88fdc9b7d50ba8f01c5cde816-b03a6f5a94573ff44beb90c18e841074",
+              "replaceForEffectTemplate": "",
+              "deleted": 0,
+              "aliParam": "!l1600"
+            },
+            "attribute": {
+              "resId": 93685817,
+              "width": 439,
+              "height": 270,
+              "cropXFrom": 0,
+              "cropYFrom": 0,
+              "cropXTo": 1,
+              "cropYTo": 1,
+              "filters": {
+                "brightness": 0,
+                "saturate": 0,
+                "contrast": 0,
+                "blur": 0,
+                "sharpen": 0,
+                "hue": 0,
+                "gamma-r": 1,
+                "gamma-g": 1,
+                "gamma-b": 1,
+                "strong": 1
+              },
+              "rt_owner": "328491",
+              "sourceWidth": "439",
+              "sourceHeight": "270",
+              "assetWidth": "439",
+              "assetHeight": "270",
+              "picUrl": "https://img.tuguaishou.com/psd_import/3866ff47-39b2-4e87-8391-32240cc7f86f/0.png!l1600?auth_key=1721433600-0-0-fa649ee08fd6c37fc4d9d4831dc386e7&v=2",
+              "class_id": []
+            },
+            "transform": {
+              "posX": 0,
+              "posY": 16,
+              "alpha": 255,
+              "rotate": 0,
+              "zindex": 2,
+              "horizontalFlip": false,
+              "verticalFlip": false
+            }
+          },
+          {
+            "meta": {
+              "locked": false,
+              "type": "image",
+              "name": "",
+              "group": "group7_328491_1715520179671",
+              "addOrigin": "png",
+              "imageEffectBeforInfo": [],
+              "hash": "a89647c88fdc9b7d50ba8f01c5cde816-ffd18247e5bdd85e12da0419d88845b5",
+              "replaceForEffectTemplate": "",
+              "deleted": 0,
+              "aliParam": "!l1600"
+            },
+            "attribute": {
+              "resId": 93685818,
+              "width": 55,
+              "height": 57,
+              "cropXFrom": 0,
+              "cropYFrom": 0,
+              "cropXTo": 1,
+              "cropYTo": 1,
+              "filters": {
+                "brightness": 0,
+                "saturate": 0,
+                "contrast": 0,
+                "blur": 0,
+                "sharpen": 0,
+                "hue": 0,
+                "gamma-r": 1,
+                "gamma-g": 1,
+                "gamma-b": 1,
+                "strong": 1
+              },
+              "rt_owner": "328491",
+              "sourceWidth": "55",
+              "sourceHeight": "57",
+              "assetWidth": "55",
+              "assetHeight": "57",
+              "picUrl": "https://img.tuguaishou.com/psd_import/3866ff47-39b2-4e87-8391-32240cc7f86f/1.png!l1600?auth_key=1721433600-0-0-9f6f227f5cd2788e260ba53b88f79ba9&v=2",
+              "class_id": []
+            },
+            "transform": {
+              "posX": 317,
+              "posY": 0,
+              "alpha": 255,
+              "rotate": 0,
+              "zindex": 3,
+              "horizontalFlip": false,
+              "verticalFlip": false
+            }
+          },
+          {
+            "meta": {
+              "locked": false,
+              "type": "image",
+              "name": "",
+              "group": "group7_328491_1715520179671",
+              "addOrigin": "png",
+              "imageEffectBeforInfo": [],
+              "hash": "a89647c88fdc9b7d50ba8f01c5cde816-ee29594bc7f80a03261e8ce6be53bf79",
+              "replaceForEffectTemplate": "",
+              "deleted": 0,
+              "aliParam": "!l1600"
+            },
+            "attribute": {
+              "resId": 93685819,
+              "width": 54,
+              "height": 45,
+              "cropXFrom": 0,
+              "cropYFrom": 0,
+              "cropXTo": 1,
+              "cropYTo": 1,
+              "filters": {
+                "brightness": 0,
+                "saturate": 0,
+                "contrast": 0,
+                "blur": 0,
+                "sharpen": 0,
+                "hue": 0,
+                "gamma-r": 1,
+                "gamma-g": 1,
+                "gamma-b": 1,
+                "strong": 1
+              },
+              "rt_owner": "328491",
+              "sourceWidth": "54",
+              "sourceHeight": "45",
+              "assetWidth": "54",
+              "assetHeight": "45",
+              "picUrl": "https://img.tuguaishou.com/psd_import/3866ff47-39b2-4e87-8391-32240cc7f86f/2.png!l1600?auth_key=1721433600-0-0-860a8f6ce433d895293bcd2ded782b16&v=2",
+              "class_id": []
+            },
+            "transform": {
+              "posX": 0,
+              "posY": 224,
+              "alpha": 255,
+              "rotate": 0,
+              "zindex": 4,
+              "horizontalFlip": false,
+              "verticalFlip": false
+            }
+          },
+          {
+            "meta": {
+              "locked": false,
+              "type": "text",
+              "name": "",
+              "group": "group7_328491_1715520179671",
+              "hash": "a89647c88fdc9b7d50ba8f01c5cde816-fc4386fb23fbe51bba7e21fb27e0f0b3"
+            },
+            "attribute": {
+              "width": 335,
+              "height": 144,
+              "text": [
+                "前方发现\u0000"
+              ],
+              "fontSize": 72,
+              "fontWeight": "normal",
+              "textAlign": "center",
+              "lineHeight": 20,
+              "letterSpacing": -2,
+              "fontFamily": "zh164hfyh",
+              "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "effect": "31@0",
+              "effectVariant": {
+                "layers": [
+                  {
+                    "zindex": 10,
+                    "top": 0,
+                    "left": 0,
+                    "strokeColor": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    },
+                    "strokeWidth": 0.08188224
+                  },
+                  {
+                    "zindex": 20,
+                    "color": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 1
+                    },
+                    "top": 0,
+                    "left": 0
+                  }
+                ],
+                "variableColorPara": [
+                  {
+                    "colors": [
+                      {
+                        "index": 0,
+                        "key": "strokeColor"
+                      }
+                    ],
+                    "colorBlock": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  },
+                  {
+                    "colors": [
+                      {
+                        "index": 1,
+                        "key": "color"
+                      }
+                    ],
+                    "colorBlock": {
+                      "r": "255",
+                      "g": "255",
+                      "b": "255",
+                      "a": "1"
+                    }
+                  }
+                ],
+                "variableSizePara": [
+                  {
+                    "sizes": [
+                      {
+                        "index": 0,
+                        "key": "strokeWidth"
+                      }
+                    ],
+                    "range": {
+                      "min": 0.0170588,
+                      "max": 0.341176
+                    }
+                  }
+                ]
+              },
+              "writingMode": "horizontal-tb",
+              "backgroundColor": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 0
+              },
+              "class_id": []
+            },
+            "transform": {
+              "posX": 9.0552,
+              "posY": 5.1534,
+              "rotate": 0,
+              "alpha": 255,
+              "zindex": 5,
+              "horizontalFlip": false,
+              "verticalFlip": false
+            }
+          },
+          {
+            "meta": {
+              "locked": false,
+              "type": "text",
+              "name": "",
+              "group": "group7_328491_1715520179671",
+              "hash": "a89647c88fdc9b7d50ba8f01c5cde816-c0b475a7f9675627c8321dabcb377269"
+            },
+            "attribute": {
+              "width": 316,
+              "height": 132,
+              "text": [
+                "可爱主播\u0000"
+              ],
+              "fontSize": 66,
+              "fontWeight": "normal",
+              "textAlign": "center",
+              "lineHeight": 20,
+              "letterSpacing": -2,
+              "fontFamily": "zh164hfyh",
+              "color": {
+                "r": 248,
+                "g": 169,
+                "b": 30,
+                "a": 1
+              },
+              "effect": "31@0",
+              "effectVariant": {
+                "layers": [
+                  {
+                    "zindex": 10,
+                    "top": 0,
+                    "left": 0,
+                    "strokeColor": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    },
+                    "strokeWidth": 0.08188224
+                  },
+                  {
+                    "zindex": 20,
+                    "color": {
+                      "r": 248,
+                      "b": 30,
+                      "g": 169,
+                      "a": 1
+                    },
+                    "top": 0,
+                    "left": 0
+                  }
+                ],
+                "variableColorPara": [
+                  {
+                    "colors": [
+                      {
+                        "index": 0,
+                        "key": "strokeColor"
+                      }
+                    ],
+                    "colorBlock": {
+                      "r": 0,
+                      "g": 0,
+                      "b": 0,
+                      "a": 1
+                    }
+                  },
+                  {
+                    "colors": [
+                      {
+                        "index": 1,
+                        "key": "color"
+                      }
+                    ],
+                    "colorBlock": {
+                      "r": 248,
+                      "b": 30,
+                      "g": 169,
+                      "a": 1
+                    }
+                  }
+                ],
+                "variableSizePara": [
+                  {
+                    "sizes": [
+                      {
+                        "index": 0,
+                        "key": "strokeWidth"
+                      }
+                    ],
+                    "range": {
+                      "min": 0.0170588,
+                      "max": 0.341176
+                    }
+                  }
+                ]
+              },
+              "writingMode": "horizontal-tb",
+              "backgroundColor": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 0
+              },
+              "class_id": []
+            },
+            "transform": {
+              "posX": 4,
+              "posY": 105.0552,
+              "rotate": 0,
+              "alpha": 255,
+              "zindex": 6,
+              "horizontalFlip": false,
+              "verticalFlip": false
+            }
+          },
+          {
+            "meta": {
+              "locked": false,
+              "type": "image",
+              "name": "",
+              "group": "group7_328491_1715520179671",
+              "addOrigin": "png",
+              "imageEffectBeforInfo": [],
+              "hash": "a89647c88fdc9b7d50ba8f01c5cde816-791626026cef84c0650ff6898968b39a",
+              "replaceForEffectTemplate": "",
+              "deleted": 0,
+              "aliParam": "!l1600"
+            },
+            "attribute": {
+              "resId": 93685822,
+              "width": 214,
+              "height": 222,
+              "cropXFrom": 0,
+              "cropYFrom": 0,
+              "cropXTo": 1,
+              "cropYTo": 1,
+              "filters": {
+                "brightness": 0,
+                "saturate": 0,
+                "contrast": 0,
+                "blur": 0,
+                "sharpen": 0,
+                "hue": 0,
+                "gamma-r": 1,
+                "gamma-g": 1,
+                "gamma-b": 1,
+                "strong": 1
+              },
+              "rt_owner": "328491",
+              "sourceWidth": "214",
+              "sourceHeight": "222",
+              "assetWidth": "214",
+              "assetHeight": "222",
+              "picUrl": "https://img.tuguaishou.com/psd_import/3866ff47-39b2-4e87-8391-32240cc7f86f/5.png!l1600?auth_key=1721433600-0-0-156e5e6aef9de303de6edcc0b4d68564&v=2",
+              "class_id": []
+            },
+            "transform": {
+              "posX": 240,
+              "posY": 53,
+              "alpha": 255,
+              "rotate": 0,
+              "zindex": 7,
+              "horizontalFlip": false,
+              "verticalFlip": false
+            }
+          },
+          {
+            "meta": {
+              "locked": false,
+              "type": "group",
+              "name": "",
+              "group": "group7_328491_1715520179671",
+              "hash": "a89647c88fdc9b7d50ba8f01c5cde816-b789d89d8ceb92ba8e88ebb87ddb1117"
+            },
+            "attribute": {
+              "width": 454,
+              "height": 286,
+              "class_id": []
+            },
+            "transform": {
+              "posX": 0,
+              "posY": 0,
+              "rotate": 0,
+              "zindex": 1
+            }
+          }
+        ]
+      ]
+    }
+  }
+}

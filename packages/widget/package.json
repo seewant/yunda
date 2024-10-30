@@ -1,0 +1,17 @@
+{
+  "name": "@design/widget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcloudio/uni-app": "3.0.0-3090920231225001",
+    "@vueuse/core": "^10.9.0",
+    "dayjs": "^1.11.11",
+    "uview-plus": "^3.2.11"
+  }
+}

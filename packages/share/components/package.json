@@ -1,0 +1,18 @@
+{
+  "name": "@design/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lhlyu/vue-virtual-waterfall": "^1.0.5",
+    "v3-waterfall": "2.0.0-beta.2",
+    "vue-waterfall-plugin-next": "^2.4.3",
+    "wc-waterfall": "^0.1.2"
+  }
+}
