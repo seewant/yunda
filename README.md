@@ -3,7 +3,7 @@
  * @Autor: WangYuan
  * @Date: 2021-12-20 14:20:57
  * @LastEditors: WangYuan
- * @LastEditTime: 2024-10-30 17:44:49
+ * @LastEditTime: 2024-10-30 17:48:37
 -->
 <!-- [English](./README.md) | 简体中文  -->
 
@@ -58,7 +58,7 @@
 
 <div style="margin-top: 50px;margin-bottom: 20px; text-align: center; color: #888; font-size: 20px;">搭建问卷调查</div>
 
-<img src="./static/questionnaire.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
+<img src="https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/b1e5aef2a2d44d38bc79551a3b70427c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo5bC96ZiR54-K:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMjg1MDM4ODQ1OTY1MjIzNyJ9&rk3s=e9ecf3d6&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1730368033&x-orig-sign=w%2BgKBsN0v9oWM9WFvbO6ZwjwBTU%3D" alt style="display: block; margin: 0 auto; max-width: 100%;">
 <div style="margin-top: 10px;margin-bottom: 10px; text-align: center; color: #888; font-size: 14px;">- 问卷调查表单自由搭建 -</div>
 
 <img src="./static/questionnaire-style.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
