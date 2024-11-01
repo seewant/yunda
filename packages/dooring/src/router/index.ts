@@ -3,7 +3,7 @@
  * @Autor: WangYuan1
  * @Date: 2023-02-28 10:12:33
  * @LastEditors: WangYuan
- * @LastEditTime: 2024-10-22 20:58:27
+ * @LastEditTime: 2024-11-01 11:35:01
  */
 import { createRouter, createWebHashHistory } from "vue-router";
 import { ref, toRefs, reactive, computed } from "vue";
@@ -75,30 +75,6 @@ const router = createRouter({
               component: () => import("@/pages/my/wechat.vue"),
               meta: { title: "我的小程序" },
             },
-            {
-              path: "questionnaire",
-              name: "my-questionnaire",
-              component: () => import("@/pages/my/questionnaire.vue"),
-              meta: { title: "我的问卷" },
-            },
-            {
-              path: "h5",
-              name: "my-h5",
-              component: () => import("@/pages/my/h5.vue"),
-              meta: { title: "我的H5" },
-            },
-            {
-              path: "article",
-              name: "my-article",
-              component: () => import("@/pages/my/article.vue"),
-              meta: { title: "我的图文" },
-            },
-            {
-              path: "form",
-              name: "my-form",
-              component: () => import("@/pages/my/form.vue"),
-              meta: { title: "我的表单" },
-            },
           ],
         },
       ],
@@ -166,59 +142,6 @@ const router = createRouter({
               component: () =>
                 import("@/pages/design/wechat-decorate/page/build.vue"),
               meta: { title: "小程序页面设计" },
-            },
-          ],
-        },
-        {
-          path: "questionnaire",
-          name: "design-questionnaire",
-          redirect: "/design/questionnaire/build",
-          component: () => import("@/pages/design/questionnaire/index.vue"),
-          children: [
-            {
-              path: "build",
-              name: "design-questionnaire-build",
-              component: () =>
-                import("@/pages/design/questionnaire/page/build.vue"),
-              meta: { title: "问卷设计" },
-            },
-            {
-              path: "style",
-              name: "design-questionnaire-style",
-              component: () =>
-                import("@/pages/design/questionnaire/page/style.vue"),
-              meta: { title: "问卷样式" },
-            },
-          ],
-        },
-        {
-          path: "article",
-          name: "design-article",
-          component: () => import("@/pages/design/article/index.vue"),
-        },
-        {
-          path: "form",
-          name: "design-form",
-          redirect: "/design/form/build",
-          component: () => import("@/pages/design/form/index.vue"),
-          children: [
-            {
-              path: "build",
-              name: "design-form-build",
-              component: () => import("@/pages/design/form/page/build.vue"),
-              meta: { title: "自定义表单设计" },
-            },
-            {
-              path: "detail",
-              name: "design-form-detail",
-              component: () => import("@/pages/design/form/page/detail.vue"),
-              meta: { title: "表单详情页设置" },
-            },
-            {
-              path: "list",
-              name: "design-form-list",
-              component: () => import("@/pages/design/form/page/list.vue"),
-              meta: { title: "表单列表设置" },
             },
           ],
         },

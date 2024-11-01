@@ -3,7 +3,7 @@
  * @Autor: WangYuan1
  * @Date: 2024-10-22 11:30:57
  * @LastEditors: WangYuan
- * @LastEditTime: 2024-10-24 10:25:22
+ * @LastEditTime: 2024-11-01 11:26:50
 -->
 <template>
   <div class="p-20">
@@ -78,8 +78,6 @@ let fliter = ref({
 
 const typeList = ref([
   { label: "小程序", value: "wechat" },
-  { label: "问卷调查", value: "questionnaire" },
-  { label: "图文", value: "article" },
 ]);
 
 const page = reactive({

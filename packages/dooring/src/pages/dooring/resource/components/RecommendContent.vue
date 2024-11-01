@@ -1,3 +1,10 @@
+<!--
+ * @Description: What's this for
+ * @Autor: WangYuan1
+ * @Date: 2024-10-30 14:58:09
+ * @LastEditors: WangYuan
+ * @LastEditTime: 2024-11-01 11:24:12
+-->
 <template>
   <div class="page">
     <div class="c-#222529 font-extrabold text-20px mb-24px">推荐小程序</div>
@@ -7,26 +14,6 @@
         :key="index"
         :item="item"
         type="wechat"
-      />
-    </div>
-
-    <div class="c-#222529 font-extrabold text-20px mb-24px">推荐问卷</div>
-    <div class="flex flex-wrap gap-30 mb-50">
-      <ProductItem
-        v-for="(item, index) in questionnaireList"
-        :key="index"
-        :item="item"
-        type="questionnaire"
-      />
-    </div>
-
-    <div class="c-#222529 font-extrabold text-20px mb-24px">推荐图文</div>
-    <div class="flex flex-wrap gap-30 mb-50">
-      <ProductItem
-        v-for="(item, index) in articleList"
-        :key="index"
-        :item="item"
-        type="article"
       />
     </div>
   </div>

@@ -3,7 +3,7 @@
  * @Autor: WangYuan1
  * @Date: 2023-01-04 19:46:57
  * @LastEditors: WangYuan
- * @LastEditTime: 2024-10-22 20:12:41
+ * @LastEditTime: 2024-11-01 11:28:16
 -->
 <template>
   <div class="my-layout">
@@ -42,11 +42,6 @@ const router = useRouter();
 const meauList = [
   [
     { label: "我的小程序", value: "my-wechat", icon: "#home-two" },
-    { label: "我的问卷", value: "my-questionnaire", icon: "#home-two" },
-    { label: "我的图文", value: "my-article", icon: "#pic" },
-    // { label: "我的H5", value: "my-h5", icon: "#block-two" },
-    // { label: "图片设计器", value: "my-image", icon: "#block-two" },
-    { label: "我的表单", value: "my-form", icon: "#pic" },
   ],
   [],
 ];

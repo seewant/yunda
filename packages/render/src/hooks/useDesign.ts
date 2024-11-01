@@ -3,7 +3,7 @@
  * @Autor: WangYuan1
  * @Date: 2024-01-17 15:39:13
  * @LastEditors: WangYuan
- * @LastEditTime: 2024-07-10 16:02:04
+ * @LastEditTime: 2024-11-01 11:30:27
  */
 import { ref, watch } from "vue";
 import { createId, cloneDeep } from "@design/utils";
@@ -163,12 +163,6 @@ function handleDrop() {
           createWidgetFromMeta(drag.value.widgetMeta)
         );
       }
-
-      if (drag.value.type == "slotWidget") {
-        console.log("添加插槽物料....");
-
-        list[index]?.children.push(createWidgetFromMeta(drag.value.widgetMeta));
-      }
     }
   };
 
@@ -201,46 +195,6 @@ function createWidgetFromMeta(meta) {
     let { name, type, defaultValue } = prop;
     widget.props[name] = cloneDeep(defaultValue);
   });
-
-  // 是否为容器物料
-  if (configure?.component?.isContainer) {
-    // 标记物料为容器物料
-    widget.isContainer = true;
-
-    widget.children = [
-      {
-        componentName: "ItemInContainerWidget",
-        id: createId(8),
-        isPrivate: true,
-        children: [],
-      },
-    ];
-  }
-
-  // Tabs容器物料
-  if (configure?.component?.isTab) {
-    widget.isTab = true;
-    widget.tabProp = configure?.component?.tabProp;
-
-    // 查找对应的tab设置器，初始化Tab子容器
-    const TabSetter = props.find((item) => {
-      return item?.name == widget.tabProp;
-    });
-
-    if (TabSetter) {
-      widget.children = [];
-
-      TabSetter?.defaultValue?.list?.forEach((item, index) => {
-        widget?.children.push({
-          componentName: "ItemInTabsWidget",
-          id: item.id,
-          isPrivate: true,
-          props: { tabId: item.id },
-          children: [],
-        });
-      });
-    }
-  }
 
   return widget;
 }

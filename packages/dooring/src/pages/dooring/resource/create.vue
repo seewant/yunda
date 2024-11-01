@@ -50,27 +50,6 @@ const list = ref([
     icon: "https://aigc-pub-prod-oss.chuangkit.com/aigc_module_image/6a91a7a530c5561e9de560f2f198cc30.png",
     cover: wechatImage,
   },
-  {
-    title: "问卷",
-    description: "调查问卷搭建",
-    type: "questionnaire",
-    icon: "https://aigc-pub-prod-oss.chuangkit.com/aigc_module_image/427fd3cfc35f6ca6eb42fd17a13ddce2.png",
-    cover: QuestionnaireImage,
-  },
-  {
-    title: "图文",
-    description: "简单方便的图文文章",
-    type: "article",
-    icon: "https://aigc-pub-prod-oss.chuangkit.com/aigc_module_image/46f18191d54fb10d9d1a827b687c0ad0.png",
-    cover: articleImage,
-  },
-  {
-    title: "表单",
-    description: "自定义表单",
-    type: "form",
-    icon: "https://aigc-pub-prod-oss.chuangkit.com/aigc_module_image/ce4aea918a11ef9bdfeef48f844414fa.png",
-    cover: FormImage,
-  },
 ]);
 
 async function handleCreate(type) {
