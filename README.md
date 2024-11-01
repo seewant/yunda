@@ -3,7 +3,7 @@
  * @Autor: WangYuan
  * @Date: 2021-12-20 14:20:57
  * @LastEditors: WangYuan
- * @LastEditTime: 2024-10-30 17:48:37
+ * @LastEditTime: 2024-11-01 11:42:05
 -->
 <!-- [English](./README.md) | 简体中文  -->
 
@@ -90,18 +90,6 @@
 <img src="./static/user-form-list.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
 <div style="margin-top: 10px;margin-bottom: 10px; text-align: center; color: #888; font-size: 14px;">- 在页面展示表单数据列表 -</div>
 
-<img src="./static/questionnaire.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-<div style="margin-top: 10px;margin-bottom: 10px; text-align: center; color: #888; font-size: 14px;">- 问卷调查小程序 -</div>
-
-<img src="./static/questionnaire.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-<div style="margin-top: 10px;margin-bottom: 10px; text-align: center; color: #888; font-size: 14px;">- 问卷调查小程序 -</div>
-
-<img src="./static/questionnaire.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-<div style="margin-top: 10px;margin-bottom: 10px; text-align: center; color: #888; font-size: 14px;">- 问卷调查小程序 -</div>
-
-<img src="./static/questionnaire.png" alt style="display: block; margin: 0 auto; max-width: 100%;">
-<div style="margin-top: 10px;margin-bottom: 10px; text-align: center; color: #888; font-size: 14px;">- 问卷调查小程序 -</div>
-
 ## 开始
 
 ### 安装依赖
@@ -135,12 +123,8 @@ pnpm dev:render
 
 ## 开源不易, 有了您的赞助, 我们会做的更好~
 
-  <img src="./static/donate.jpg" alt style="width: 20%;">
+  <img src="./static/collection.png" alt style="width: 20%;">
 
-<!-- ## 技术反馈与低代码交流群
+## 云搭反馈交流群
 
-- 加入低代码交流群交流
-- 获取低代码开发教程文章
-- 与作者进行相关交流
-
-<img src="./static/official.png" alt style="width: 20%;"> -->
+<img src="./static/qr-wechat.png" alt style="width: 20%;">
