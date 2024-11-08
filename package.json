@@ -6,8 +6,7 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "bootstrap": "pnpm i -r",
-    "dev:dooring": "pnpm -F @design/dooring dev",
-    "dev:render": "pnpm -F @design/render dev:h5"
+    "dev:dooring": "pnpm -F @design/dooring dev"
   },
   "keywords": [],
   "author": "",
@@ -21,7 +20,6 @@
     "@design/components": "workspace:*",
     "@design/utils": "workspace:*",
     "@design/widget": "workspace:*",
-    "@design/render": "workspace:*",
     "sass": "^1.55.0",
     "scss": "^0.2.4"
   }
